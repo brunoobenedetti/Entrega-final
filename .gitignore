@@ -1,0 +1,12 @@
+node_modules/
+
+
+logs/*
+uploads/profiles/*
+!uploads/profiles/default.png
+
+uploads/documents/*
+!uploads/documents/.gitkeep
+
+logs/*
+!logs/.gitkeep
